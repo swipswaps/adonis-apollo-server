@@ -7,6 +7,7 @@ This package integrates Apollo GraphQL Server with the AdonisJS framework. It al
 ## Installation
 
 ```bash
+npm i -g @adonisjs/cli
 adonis install adonis-apollo-server
 ```
 
